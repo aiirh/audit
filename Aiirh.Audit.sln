@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{63765E79-5D4F-40F4-8C02-94F379A03167}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		AiirhLogo128.png = AiirhLogo128.png
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aiirh.Audit", "Aiirh.Audit\Aiirh.Audit.csproj", "{73FD7386-10D5-4152-8E4B-8D79DA3FEB0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aiirh.Audit.Tests", "Aiirh.Audit.Tests\Aiirh.Audit.Tests.csproj", "{1CAD917B-845E-4B0A-B68B-EBA59DB73824}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73FD7386-10D5-4152-8E4B-8D79DA3FEB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FD7386-10D5-4152-8E4B-8D79DA3FEB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73FD7386-10D5-4152-8E4B-8D79DA3FEB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73FD7386-10D5-4152-8E4B-8D79DA3FEB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAD917B-845E-4B0A-B68B-EBA59DB73824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAD917B-845E-4B0A-B68B-EBA59DB73824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAD917B-845E-4B0A-B68B-EBA59DB73824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAD917B-845E-4B0A-B68B-EBA59DB73824}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B386BE53-FA4E-4DE1-8B8B-151FE25E8B86}
+	EndGlobalSection
+EndGlobal
