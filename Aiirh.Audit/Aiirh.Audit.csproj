@@ -17,7 +17,7 @@
         <FileVersion>2.0.6.0</FileVersion>
         <PackageIcon>AiirhLogo128.png</PackageIcon>
         <PackageReadmeFile>README.md</PackageReadmeFile>
-        <RepositoryUrl>https://github.com/aiirh/audit.git</RepositoryUrl>
+        <RepositoryUrl>https://github.com/aiirh/audit</RepositoryUrl>
         <PackageTags>audit;auditlog;changes;tracking</PackageTags>
     </PropertyGroup>
 
