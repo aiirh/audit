@@ -12,12 +12,13 @@
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <Description>Services for tracking changes in data objects</Description>
         <Copyright>Evgenii Baleevskii</Copyright>
-        <Version>2.0.5</Version>
-        <AssemblyVersion>2.0.5.0</AssemblyVersion>
-        <FileVersion>2.0.5.0</FileVersion>
+        <Version>2.0.6</Version>
+        <AssemblyVersion>2.0.6.0</AssemblyVersion>
+        <FileVersion>2.0.6.0</FileVersion>
         <PackageIcon>AiirhLogo128.png</PackageIcon>
         <PackageReadmeFile>README.md</PackageReadmeFile>
         <RepositoryUrl>https://github.com/aiirh/audit.git</RepositoryUrl>
+        <PackageTags>audit;auditlog;changes;tracking</PackageTags>
     </PropertyGroup>
 
     <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -29,7 +30,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Aiirh.Basic" Version="3.0.5" />
+        <PackageReference Include="Aiirh.Basic" Version="[3.0.5, 4.0.0)" />
     </ItemGroup>
 
     <ItemGroup>
